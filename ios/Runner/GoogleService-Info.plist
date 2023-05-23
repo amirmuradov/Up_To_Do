@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>796278474377-4lvriqgu1ljl7rh6fgc3jj6pm859co4c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.796278474377-4lvriqgu1ljl7rh6fgc3jj6pm859co4c</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDfzp7t9ZXde-LvrRAufP_M3XCCMEuyMsw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>796278474377</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.todlist</string>
+	<key>PROJECT_ID</key>
+	<string>todolist-cae6a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>todolist-cae6a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:796278474377:ios:e6beddf2412c5f77912858</string>
+	<key>DATABASE_URL</key>
+	<string>https://todolist-cae6a-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

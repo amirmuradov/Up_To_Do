@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "796278474377",
+    "firebase_url": "https://todolist-cae6a-default-rtdb.firebaseio.com",
+    "project_id": "todolist-cae6a",
+    "storage_bucket": "todolist-cae6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796278474377:android:0dc9e205a68e61e1912858",
+        "android_client_info": {
+          "package_name": "com.example.todlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796278474377-b9u817udm5jlcsrn0t8hk261h2v043b7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCInDca3qJFWTtQhVG7Q7hAFlA0a8E0tgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796278474377-b9u817udm5jlcsrn0t8hk261h2v043b7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "796278474377-4lvriqgu1ljl7rh6fgc3jj6pm859co4c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.todlist"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+        "terminal.foreground": "#00FF00",
+        "terminalCursor.foreground": "#0000FF",
+        "terminalCommandDecoration.errorBackground": "#ff0000"
+    },
+    "workbench.preferredHighContrastColorTheme": "Monokai"
+}
